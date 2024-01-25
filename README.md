@@ -79,12 +79,8 @@ git push --set-upstream origin <branch_name>
 - [Bootstrap Docs](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 - [Git and GitHub](https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide)
 
-## Project Admin
+## Project Admin                                                                     **[Vaibhav Sawant,Pankaj Patil]**                                                                                                                                        
 
-                                                                                        |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                       **[Vaibhav Sawant,Pankaj Patil]**                                                                                                                                        |
-|  
 
 #### Thanks goes to our valuable Contributors :
 <a href="https://github.com/VS-DYPIAN">
