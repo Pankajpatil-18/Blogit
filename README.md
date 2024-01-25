@@ -83,7 +83,7 @@ git push --set-upstream origin <branch_name>
 
 <a href="https://github.com/VS-DYPIAN"><img src="https://media.licdn.com/dms/image/D5603AQHZ0YEpGScZ4A/profile-displayphoto-shrink_200_200/0/1676010463842?e=1681344000&v=beta&t=kab0g04SQNm3Pi3r3B9BpK1eebU79yrzHYwr15v_mws " width=150px height=150px  alt = Vaibhav/></a>                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                       **[Vaibhav Sawant](www.linkedin.com/in/vaibhav-sawant-683b20217/)**                                                                                                                                        |
+|                                                                       **[Vaibhav Sawant,Pankaj Patil]**                                                                                                                                        |
 |   <img src="https://media.licdn.com/dms/image/D5603AQHZ0YEpGScZ4A/profile-displayphoto-shrink_200_200/0/1676010463842?e=1681344000&v=beta&t=kab0g04SQNm3Pi3r3B9BpK1eebU79yrzHYwr15v_mws" width="32px" height="32px"> "www.linkedin.com/in/vaibhav-sawant-683b20217/" |</br>
 
 #### Thanks goes to our valuable Contributors :
@@ -92,6 +92,6 @@ git push --set-upstream origin <branch_name>
 </a>
 
 ## Like This?? Star ⭐ this Repo.
-> Made with ❤️ by Vaibhav Sawant
+> Made with ❤️ by Vaibhav Sawant,Pankaj Patil
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
